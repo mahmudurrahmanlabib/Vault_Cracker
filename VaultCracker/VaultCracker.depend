@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1624873002 source:c:\users\labib\documents\vaultcracker\vaultcracker\funcs.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1624873002 source:c:\users\labib\documents\vaultcracker\vaultcracker\havkey.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1624873002 source:c:\users\labib\documents\vaultcracker\vaultcracker\manuext.c
+	<stdio.h>
+
+1624873002 source:c:\users\labib\documents\vaultcracker\vaultcracker\nokey.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1624886831 source:c:\users\labib\documents\vaultcracker\vaultcracker\autoext.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1624887606 source:c:\users\labib\documents\vaultcracker\vaultcracker\about.c
+
+1624887463 source:c:\users\labib\documents\vaultcracker\vaultcracker\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
